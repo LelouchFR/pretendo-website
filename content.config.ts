@@ -12,6 +12,17 @@ export default defineContentConfig({
 				caption: z.string(),
 				cover_image: z.string()
 			})
+		}),
+		terms: defineCollection({
+			type: 'page',
+			source: 'terms/*.md',
+			schema: z.object({
+				author: z.string(),
+				author_image: z.string(),
+				date: z.string(),
+				caption: z.string(),
+				cover_image: z.string()
+			})
 		})
 	}
 });
