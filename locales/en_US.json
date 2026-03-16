@@ -271,6 +271,11 @@
 				"github": "https://github.com/OatmealDome"
 			},
 			{
+				"name": "Stormbix",
+				"caption": "Mascot Designer",
+				"picture": "https://forum.pretendo.network/uploads/default/original/2X/e/e4656a17001edc17a0feef621e38acd26fe0ba6c.png"
+			},
+			{
 				"name": "GitHub contributors",
 				"caption": "Localizations and other contributions",
 				"picture": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
